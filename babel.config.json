@@ -1,0 +1,7 @@
+{
+  "presets": ["next/babel"]
+  // "plugins": [
+  //   // "@babel/plugin-proposal-import-attributes-to-assertions",
+  //   "@babel/plugin-syntax-import-attributes"
+  // ]
+}
